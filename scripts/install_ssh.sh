@@ -1,6 +1,6 @@
 # Configuration
 
-EMAIL="ludopotvin@gmail.."
+EMAIL="ludopotvin@gmail.com"
 KEY_PATH="$HOME/.ssh/id_ed25519"
 
 echo "Generating SSH key for Github..."
